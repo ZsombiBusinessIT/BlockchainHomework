@@ -3,7 +3,7 @@ software development. Therefore, the implementation presented here might not ref
 This project was whipped up with a pinch of ChatGPT's magic, so the homework might be more of a whimsical rollercoaster than a stroke of sheer brilliance!^^
 
 Assignment-3:
-NODA A    -------   Smart Contract Server ------- Node B
+Node A    -------   Smart Contract Server ------- Node B
 
 Node A to Smart Contract Server:
 1.Node A wants to obtain the private data of node B
